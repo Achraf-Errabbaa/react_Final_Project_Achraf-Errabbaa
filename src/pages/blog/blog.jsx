@@ -26,7 +26,7 @@ export const Blog = () => {
                     </div>
                 </section>
                 <div className=' w-full md:w-[30%] flex justify-start items-start flex-col'>
-                    <input className='h-[45px] w-[80%]  px-2 border-black border-[1px] border-solide rounded-[30px]' type="search" placeholder="Search for article..." />
+                    <input className='h-[45px] w-[60%]  px-2 border-gray-400 border-[1px] border-solide rounded-[30px]' type="search" placeholder="Search for article..." />
                     <div className='font-extrabold text-2xl pt-[50px]'>Featured Products </div>
                     <div className='flex flex-col gap-4'>
                         <div className='flex mt-[50px]'>
