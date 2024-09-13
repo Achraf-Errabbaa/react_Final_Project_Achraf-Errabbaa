@@ -1,6 +1,8 @@
 export default{
     item1: require("../images/item-cart-01.jpg"),
     item2: require("../images/item-cart-02.jpg"),
+    item5: require("../images/blog-02.jpg"),
+    item6: require("../images/item-03.jpg"),
     carousel1: require("../images/carousel1.jpg"),
     carousel2: require("../images/carousel2.jpg"),
     banner1: require("../images/banner-02.jpg"),

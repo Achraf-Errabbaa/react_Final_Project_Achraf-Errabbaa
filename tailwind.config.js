@@ -12,7 +12,11 @@ module.exports = {
         'gl3': "url('./images/banner-02.jpg')",
         'gl4': "url('./images/item-03.jpg')",
         'gl5': "url('./images/item-cart-01.jpg')",
-        'about': "url('./images/about.png')"
+        'about': "url('./images/about.png')",
+        'glasses': "url('./images/banner-05.jpg')",
+        'watch': "url('./images/item-05.jpg')",
+        'guy': "url('./images/banner-04.jpg')",
+        'pack': "url('./images/pack.jpg')",
 
         
         
