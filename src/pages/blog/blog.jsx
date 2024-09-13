@@ -30,35 +30,35 @@ export const Blog = () => {
                     <div className='font-extrabold text-2xl pt-[50px]'>Featured Products </div>
                     <div className='flex flex-col gap-4'>
                         <div className='flex mt-[50px]'>
-                            <div className='bg-gl1 bg-cover bg-center h-[100px] w-[70px] hover:opacity-[0.7] hover:duration-150'></div>
+                            <div className='bg-gl1 bg-cover bg-center h-[100px] w-[90px] hover:opacity-[0.7] hover:duration-150'></div>
                             <div className='pl-5'>
                                 <div className='font-thin'>Boxy7 T-Shirt with <br /> Roll Sleeve</div>
                                 <div className='text-sm text-gray-400'>20$</div>
                             </div>
                         </div>
                         <div className='flex '>
-                            <div className='bg-gl2 bg-cover bg-center h-[100px] w-[70px] hover:opacity-[0.7] hover:duration-150'></div>
+                            <div className='bg-gl2 bg-cover bg-center h-[100px] w-[90px] hover:opacity-[0.7] hover:duration-150'></div>
                             <div className='pl-5'>
                                 <div className='font-thin'>Boxy7 T-Shirt with <br /> Roll Sleeve</div>
                                 <div className='text-sm text-gray-400'>20$</div>
                             </div>
                         </div>
                         <div className='flex '>
-                            <div className='bg-gl3 bg-cover bg-center h-[100px] w-[70px] hover:opacity-[0.7] hover:duration-150 '></div>
+                            <div className='bg-gl3 bg-cover bg-center h-[100px] w-[90px] hover:opacity-[0.7] hover:duration-150 '></div>
                             <div className='pl-5'>
                                 <div className='font-thin'>Boxy7 T-Shirt with <br /> Roll Sleeve</div>
                                 <div className='text-sm text-gray-400'>20$</div>
                             </div>
                         </div>
                         <div className='flex '>
-                            <div className='bg-gl4 bg-cover bg-center h-[100px] w-[70px] hover:opacity-[0.7] hover:duration-150 '></div>
+                            <div className='bg-gl4 bg-cover bg-center h-[100px] w-[90px] hover:opacity-[0.7] hover:duration-150 '></div>
                             <div className='pl-5'>
                                 <div className='font-thin'>Boxy7 T-Shirt with <br /> Roll Sleeve</div>
                                 <div className='text-sm text-gray-400'>20$</div>
                             </div>
                         </div>
                         <div className='flex '>
-                            <div className='bg-gl5 bg-cover bg-center h-[100px] w-[70px] hover:opacity-[0.7] hover:duration-150 '></div>
+                            <div className='bg-gl5 bg-cover bg-center h-[100px] w-[90px] hover:opacity-[0.7] hover:duration-150 '></div>
                             <div className='pl-5'>
                                 <div className='font-thin'>Boxy7 T-Shirt with <br /> Roll Sleeve</div>
                                 <div className='text-sm text-gray-400'>20$</div>
