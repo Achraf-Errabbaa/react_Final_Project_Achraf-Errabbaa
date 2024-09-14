@@ -65,7 +65,7 @@ export const Shop = () => {
                                     onChange={handleCategoryChange}
                                 />
                                 <span className='checkmark'></span>
-                                <span className='ml-2 text-lg'>Sell</span>
+                                <span className='ml-2 text-lg'>Best Seller</span>
                             </label>
                             <label className='container block mt-2'>
                                 <input 
@@ -75,7 +75,7 @@ export const Shop = () => {
                                     onChange={handleCategoryChange}
                                 />
                                 <span className='checkmark'></span>
-                                <span className='ml-2 text-lg'>Sold</span>
+                                <span className='ml-2 text-lg'>Featured </span>
                             </label>
                             <label className='container block mt-2'>
                                 <input 

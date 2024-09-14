@@ -3,23 +3,23 @@
     "id": 1,
     "Product": "Boxy T-Shirt with Roll Sleeve Detail",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-03_1200x1600.jpg?v=1514269273",
-    "type1": "available",
-    "color": "red",
+    "type1": "new",
+    "color": "blue",
     "price": "8.99"
   },
   {
     "id": 2,
     "Product": "Boxy1 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-15_7ca55ba5-301e-4461-92ea-68c8b02e35e7_1200x1600.jpg?v=1515096104",
-    "type1": "available",
-    "color": "green",
+    "type1": "new",
+    "color": "white",
     "price": "12.49"
   },
   {
     "id": 3,
     "Product": "Boxy2 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-04_bcfb0f5a-4eff-46f0-992d-b73eb1b4b88e_1200x1600.jpg?v=1515095994",
-    "type1": "available",
+    "type1": "new",
     "color": "blue",
     "price": "7.65"
   },
@@ -27,40 +27,40 @@
     "id": 4,
     "Product": "Boxy3 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-16_84f06345-b149-4331-9957-2d65c6b87584_1200x1600.jpg?v=1514273770",
-    "type1": "out of stock",
-    "color": "yellow",
+    "type1": "sold",
+    "color": "white",
     "price": "5.50"
   },
   {
     "id": 5,
     "Product": "Boxy4 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-13_d77ff6ee-7735-4f22-a436-1ac6b9ccabd6_1200x1600.jpg?v=1515096032",
-    "type1": "out of stock",
-    "color": "purple",
+    "type1": "sold",
+    "color": "blue",
     "price": "2.75"
   },
   {
     "id": 6,
     "Product": "Boxy5 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-11_fa17bbd7-4f67-488d-930a-f5e6ece4e595_1200x1600.jpg?v=1514273806",
-    "type1": "out of stock",
-    "color": "grey",
+    "type1": "sold",
+    "color": "black",
     "price": "4.40"
   },
   {
     "id": 7,
     "Product": "Boxy6 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-12_e8f7bcc1-8e0a-4966-80fd-3d38fcc28a1e_1200x1600.jpg?v=1514273438",
-    "type1": "clearance",
-    "color": "brown",
+    "type1": "sell",
+    "color": "white",
     "price": "15.80"
   },
   {
     "id": 8,
     "Product": "Boxy7 T-Shirt with Roll Sleeve",
     "image": "https://fashe-theme.myshopify.com/cdn/shop/products/item-10_928bd293-fd66-4b11-af8f-8e118c77549a_1200x1600.jpg?v=1514273397",
-    "type1": "clearance",
-    "color": "pink",
+    "type1": "sell",
+    "color": "black",
     "price": "9.95"
   }
 ]
