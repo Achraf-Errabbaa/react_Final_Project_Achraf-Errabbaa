@@ -52,32 +52,32 @@ export const Home = () => {
             <div className='px-32 flex pt-10 gap-10'>
                 <div className=''>
 
-                    <div className='bg-gl3 bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-gl3 bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">DRESSES</button>
                     </div>
 
-                    <div className='bg-glasses bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-glasses bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2">SUNGLASSES</button>
                     </div>
                 </div>
 
                 <div className='flex flex-col gap-16'>
 
-                    <div className='bg-watch  bg-cover bg-center relative  bg-no-repeat w-[400px] h-[380px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-watch  bg-cover bg-center relative  bg-no-repeat w-[400px] h-[380px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[250px] right-[120px] items-center justify-center bg-white w-[180px] p-2">WATCHES</button>
                     </div>
 
-                    <div className='bg-gl2 bg-contain bg-center relative bg-no-repeat  w-[400px] h-[500px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-gl2 bg-contain bg-center relative bg-no-repeat  w-[400px] h-[500px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">FOOTERWEAR</button>
                     </div>
                 </div>
                 <div className=''>
 
-                    <div className='bg-guy bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-guy bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">DRESSES</button>
                     </div>
 
-                    <div className='bg-pack bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px]'>
+                    <div onClick={()=>{navigate('/shop')}} className='bg-pack bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer'>
                         <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2">SUNGLASSES</button>
                     </div>
                 </div>
