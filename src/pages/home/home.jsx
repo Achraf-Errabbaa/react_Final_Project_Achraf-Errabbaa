@@ -53,32 +53,32 @@ export const Home = () => {
                 <div className='reltive overflow-hidden'>
 
                     <div onClick={()=>{navigate('/shop')}} className='bg-gl3 bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">DRESSES</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">DRESSES</button>
                     </div>
 
                     <div onClick={()=>{navigate('/shop')}} className='bg-glasses bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2">SUNGLASSES</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">SUNGLASSES</button>
                     </div>
                 </div>
 
                 <div className='flex flex-col gap-16 reltive overflow-hidden'>
 
                     <div onClick={()=>{navigate('/shop')}} className='bg-watch  bg-cover bg-center relative  bg-no-repeat w-[400px] h-[380px]  cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[250px] right-[120px] items-center justify-center bg-white w-[180px] p-2">WATCHES</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[250px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">WATCHES</button>
                     </div>
 
                     <div onClick={()=>{navigate('/shop')}} className='bg-gl2 bg-contain bg-center relative bg-no-repeat  w-[400px] h-[500px] cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">FOOTERWEAR</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">FOOTERWEAR</button>
                     </div>
                 </div>
                 <div className='reltive overflow-hidden'>
 
                     <div  onClick={()=>{navigate('/shop')}} className='bg-guy bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px] cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2">DRESSES</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[400px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">DRESSES</button>
                     </div>
 
                     <div onClick={()=>{navigate('/shop')}} className='bg-pack bg-contain bg-center relative bg-no-repeat w-[400px] h-[500px]  cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-110'>
-                        <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2">SUNGLASSES</button>
+                        <button className="flex absolute bg-opacity-70 text-2xl top-[350px] right-[120px] items-center justify-center bg-white w-[180px] p-2 hover:text-white hover:bg-red-400">SUNGLASSES</button>
                     </div>
                 </div>
 
