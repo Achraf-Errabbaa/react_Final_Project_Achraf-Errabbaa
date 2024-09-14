@@ -171,7 +171,7 @@ export const Home = () => {
                             <h2 className='font-extrabold text-3xl mb-2'>The Beauty</h2>
                             <h1 className='font-extrabold text-4xl mb-4'>Look Book</h1>
                             <p>
-                                <a href="#" className='text-white underline hover:text-gray-300'>VIEW COLLECTION</a>
+                                <a onClick={()=>{navigate('/shop')}} href="#" className='text-white  hover:underline'>VIEW COLLECTION</a>
                             </p>
                         </div>
                     </div>
@@ -182,7 +182,7 @@ export const Home = () => {
                         <img src={imges.glasses} alt="Glasses" className='h-[250px] transition-transform duration-300 ease-in-out transform hover:scale-110' />
                     </div>
                     <div className='mb-10 text-center text-gray-500'>
-                        <p className='text-lg'>Boxy2 T-Shirt with Roll Sleeve</p>
+                        <p className='text-lg hover:text-red-500 cursor-pointer'>Boxy2 T-Shirt with Roll Sleeve</p>
                         <p className='text-xl mt-1'>$20.00</p>
                     </div>
                     <div className='flex gap-3'>
