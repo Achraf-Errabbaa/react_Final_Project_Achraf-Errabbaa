@@ -11,4 +11,7 @@ export default{
     item4: require("../images/item-05.jpg"),
     glasses: require("../images/shop-item-09.jpg"),
     watch: require("../images/item-cart-03.jpg"),
+    blog1: require("../images/blog-01.jpg"),
+    blog2: require("../images/blog-02.jpg"),
+    blog3: require("../images/blog-03.jpg"),
 }

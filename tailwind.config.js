@@ -17,6 +17,7 @@ module.exports = {
         'watch': "url('./images/item-05.jpg')",
         'guy': "url('./images/banner-04.jpg')",
         'pack': "url('./images/pack.jpg')",
+        'banner3': "url('./images/banner-08.jpg')",
 
         
         
