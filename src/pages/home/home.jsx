@@ -2,8 +2,10 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination, Navigation } from 'swiper/modules';
 import { imges } from '../../constant';
+import { useNavigate } from 'react-router-dom';
 
 export const Home = () => {
+    const navigate =useNavigate()
     return (
         <>
             <div className='pt-[100px]'>
